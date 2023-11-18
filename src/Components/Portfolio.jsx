@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desktop with books man.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books man";
 
 /**
  * Project list
@@ -31,9 +31,9 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Shopper",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Shopperr is an e-commerce platform catered towards giving the best and fast experience for customers to buy cotton products, we call it a frictionless process from start to finish.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
@@ -49,9 +49,9 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "QR Code Gen",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "QR codes are used to encode and decode the data into a machine-readable form. The use of camera phones to read two-dimensional barcodes for various purposes is currently a popular topic in both types of research and practical applications.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
